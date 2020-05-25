@@ -8,14 +8,14 @@ series: [linkownia]
 authors: ["Wojtek Urbański"]
 ---
 
-W dzisiejszym odcinku "linkowni" znajdziecie zbiór informacji o architekturze aplikacji jednego z królów mikroserwisów - Netfliksa, ale także dowiecie się jak zarządzać przechowywanymi w repozytoriach poświadczeniami w prosty, ale bezpieczny sposób przy użyciu narzędzia Mozilla SOPS. O automatyzacji napisano już wiele, ale system GitHub Actions, o którym mówi ostatni artykuł, zdecydowanie jest nowością, którą można wykorzystywać na wiele sposobów. Jak wiele? przeczytajcie sami!
+W dzisiejszym odcinku Linkowni znajdziecie zbiór informacji o architekturze aplikacji jednego z królów mikroserwisów - Netfliksa, ale także dowiecie się jak zarządzać przechowywanymi w repozytoriach poświadczeniami w prosty, ale bezpieczny sposób przy użyciu narzędzia Mozilla SOPS. O automatyzacji napisano już wiele, ale system GitHub Actions, o którym mówi ostatni artykuł, zdecydowanie jest nowością, którą można wykorzystywać na wiele sposobów. Jak wiele? przeczytajcie sami!
 <!--more-->
 
 ### Paweł poleca: Poznaj architekturę serwisu, który ratuje świat
 
 [A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
 
-W dobie wszechobecnego lockdownu istnieje organizacja, która ratuje nas przed szaleństwem. Jest to Netflix, czyli największy serwis streamingowy. W powyższym linku możecie przeczytać jak aktualnie wygląda architektura Netfliksa. Dodatkowo znajdziecie trochę informacji na temat ewolucji  przejścia na mikroserwisy, które trwało prawie 10 lat. 
+W dobie wszechobecnego lockdownu istnieje organizacja, która ratuje nas przed szaleństwem. Jest to Netflix, czyli największy serwis streamingowy. W powyższym linku możecie przeczytać, jak aktualnie wygląda architektura Netfliksa. Dodatkowo znajdziecie trochę informacji na temat ewolucji przejścia na mikroserwisy, które trwało prawie 10 lat. 
 
 ### Wojtek poleca: Zarządzanie sekretami przy użyciu Mozilla SOPS
 
