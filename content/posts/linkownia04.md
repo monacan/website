@@ -15,7 +15,7 @@ Cześć, w dzisiejszym zbiorze linków trochę o związkach kryzysu z otwartym o
 
 [The third wave of open source migration](https://blog.tidelift.com/the-third-wave-of-open-source-migration)
 
-W dobie nadchodzącego kryzysu firmy zaczynają oszczędzać, a najłatwiej zrezygnować z usług, które można zastąpić darmowym, otwartym kodem. Krótki tekst, opowiadający o tym, jak poprzednie kryzysy gospodarcze znacznie przyspieszyły pracę w projektach opensource. Wpis jest interesujący mimo niewielkiej ilości technikaliów. Może faktycznie rozwój otwartych rozwiązań będzie pozytywnym aspektem tych czasów.
+W dobie nadchodzącego kryzysu firmy zaczynają oszczędzać, a najłatwiej zrezygnować z usług, które można zastąpić darmowym, otwartym kodem. Krótki tekst opowiadający o tym, jak poprzednie kryzysy gospodarcze znacznie przyspieszyły pracę w projektach opensource. Wpis jest interesujący mimo niewielkiej ilości technikaliów. Może faktycznie rozwój otwartych rozwiązań będzie pozytywnym aspektem tych czasów.
 
 ### Wojtek poleca: Od zera do modelu GitOps przy użyciu dużej liczby modnych narzędzi
 
@@ -27,4 +27,4 @@ Zestaw narzędzi wykorzystany w powyższym poradniku może wydawać się nieco n
 
 [Java Application Optimization on Kubernetes](https://medium.com/faun/java-application-optimization-on-kubernetes-on-the-example-of-a-spring-boot-microservice-cf3737a2219c)
 
-Artykuł opisuje jak dobrze skonfigurować deploymenty Javowe na Kubernetesie pod kątem przydziału zasobów, liveness probes itp. Nie ma tam za dużo odkryć, ale jest pokazane, że k8s to szczególne środowisko wdrożeniowe i trzeba przemyśleć kilka szczegółów zanim zacznie się tam uruchamiać aplikacje - nie jest to proste uruchomienie procesu, a nawet nie jest bezpośrednim przeniesieniem z kontekstu lokalnych kontenerów (np. na Dockerze w środowisku deweloperskim).
+Artykuł opisuje jak dobrze skonfigurować deploymenty javowe na Kubernetesie pod kątem przydziału zasobów, liveness probes itp. Nie ma tam za dużo odkryć, ale jest pokazane, że k8s to szczególne środowisko wdrożeniowe i trzeba przemyśleć kilka szczegółów zanim zacznie się tam uruchamiać aplikacje - nie jest to proste uruchomienie procesu, a nawet nie jest bezpośrednim przeniesieniem z kontekstu lokalnych kontenerów (np. na Dockerze w środowisku deweloperskim).
